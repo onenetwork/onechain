@@ -23,7 +23,4 @@ ONE operates several github repos in support of these initiatives:
 | htts://github.com/onenetwork/onechain-back-verify | Standalone application which can connect to ONE's Backchain and verify individual transactions in the distributed ledger. |
 | htts://github.com/onenetwork/onechain-front | Root repository for ONE's frontchains.  Will contain an index of specific frontchain initiative repos. |
 
-
-
-
 Licensed under the [Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
