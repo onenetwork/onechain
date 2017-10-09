@@ -4,11 +4,11 @@ Root repository for [One Network Enterprises](http://www.onenetwork.com)' blockc
 
 ONE's approach to blockchain is comprised of two key parts:
 
- * **Frontchain** - frontchains are "traditional" blockchains, where writes are carefully controlled 
+ * **Frontchain** - Frontchains are "traditional" blockchains, where writes are carefully controlled 
    by the smart contract, but the distributed ledger's data is visible to *all* blockchain participants.
    The blockchain itself is the "system of record", but the processes
    are limited to those where broad read permissions are acceptable from a business standpoint.
- * **Backchain** - backchains provide an alternative when frontchains' permission limitations are prohibitive.
+ * **Backchain** - Backchains provide an alternative when frontchains' permission limitations are prohibitive.
    In a backchain, an *orchestrator* (for example ONE) is the system of record for the business
    transactions.  The orchestrator must distribute an audit trail of writes to parties based on their
    permissions.  The orchestrator also writes a *hash* of the transaction data to the blockchain.  
