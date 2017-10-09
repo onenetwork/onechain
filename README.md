@@ -1,6 +1,6 @@
 # onechain
 
-Root repository for [One Network Enterprises](https://www.onenetwork.com)' blockchain initiatives.
+Root repository for [One Network Enterprises](http://www.onenetwork.com)' blockchain initiatives.
 
 ONE's approach to blockchain is comprised of two key parts:
 
@@ -19,10 +19,10 @@ ONE operates several github repos in support of these initiatives:
 
 | Repo | Description |
 | --- | --- |
-| [onechain](htts://github.com/onenetwork/onechain) | Root repository for One Network Enterprises' blockchain initiatives.  Contains introductory material, whitepapers, and an index of other related repos. |
-| [onechain-back](htts://github.com/onenetwork/onechain-back) | Implementation (smart contract) for ONE's Backchain |
-| [onechain-back-client](htts://github.com/onenetwork/onechain-back-client) | Client API for ONE's Backhain |
-| [onechain-back-verify](htts://github.com/onenetwork/onechain-back-verify) | Standalone application which can connect to ONE's Backchain and verify individual transactions in the distributed ledger. |
-| [onechain-front](htts://github.com/onenetwork/onechain-front) | Root repository for ONE's frontchains.  Will contain an index of specific frontchain initiative repos. |
+| <nobr>[onechain](htts://github.com/onenetwork/onechain)</nobr> | Root repository for One Network Enterprises' blockchain initiatives.  Contains introductory material, whitepapers, and an index of other related repos. |
+| <nobr>[onechain-back](htts://github.com/onenetwork/onechain-back)</nobr> | Implementation (smart contract) for ONE's Backchain |
+| <nobr>[onechain-back-client](htts://github.com/onenetwork/onechain-back-client)</nobr> | Client API for ONE's Backhain |
+| <nobr>[onechain-back-verify](htts://github.com/onenetwork/onechain-back-verify)</nobr> | Standalone application which can connect to ONE's Backchain and verify individual transactions in the distributed ledger. |
+| <nobr>[onechain-front](htts://github.com/onenetwork/onechain-front)</nobr> | Root repository for ONE's frontchains.  Will contain an index of specific frontchain initiative repos. |
 
 Licensed under the [Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
