@@ -19,10 +19,10 @@ ONE operates several github repos in support of these initiatives:
 
 | Repo | Description |
 | --- | --- |
-| [`onechain`](https://github.com/onenetwork/onechain) | Root repository for One Network Enterprises' blockchain initiatives.  Contains introductory material, whitepapers, and an index of other related repos. |
+| <a href="https://github.com/onenetwork/onechain">onechain</a> | Root repository for One Network Enterprises' blockchain initiatives.  Contains introductory material, whitepapers, and an index of other related repos. |
 | <a href="https://github.com/onenetwork/onechain-back">onechain&#8209;back</a> | Implementation (smart contract) for ONE's Backchain |
-| [`onechain-back-client`](https://github.com/onenetwork/onechain-back-client) | Client API for ONE's Backhain |
-| [`onechain-back-verify`](https://github.com/onenetwork/onechain-back-verify) | Standalone application which can connect to ONE's Backchain and verify individual transactions in the distributed ledger. |
-| [`onechain-front`](https://github.com/onenetwork/onechain-front) | An index of repos for ONE frontchain initiatives. |
+| <a href="https://github.com/onenetwork/onechain-back-client">onechain&#8209;back&#8209;client</a> | Client API for ONE's Backhain |
+| <a href="https://github.com/onenetwork/onechain-back-verify">onechain&#8209;back&#8209;verify</a> | Standalone application which can connect to ONE's Backchain and verify individual transactions in the distributed ledger. |
+| <a href="https://github.com/onenetwork/onechain-front">onechain&#8209;front</a> | An index of repos for ONE frontchain initiatives. |
 
 Licensed under the [Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
