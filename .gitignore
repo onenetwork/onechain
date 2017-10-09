@@ -1,0 +1,5 @@
+.vagrant
+build/
+log/
+node_modules/
+
