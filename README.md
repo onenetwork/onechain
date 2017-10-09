@@ -19,7 +19,7 @@ ONE operates several github repos in support of these initiatives:
 
 | Repo | Description |
 | --- | --- |
-| <a href="https://github.com/onenetwork/onechain">onechain</a> | Root repository for One Network Enterprises' blockchain initiatives.  Contains introductory material, whitepapers, and an index of other related repos. |
+| <a href="https://github.com/onenetwork/onechain">onechain</a> | Root repository for One Network Enterprises' blockchain initiatives.  Contains introductory material, whitepapers, and an index of other related repos. (This repo.)  |
 | <a href="https://github.com/onenetwork/onechain-back">onechain&#8209;back</a> | Implementation (smart contract) for ONE's Backchain |
 | <a href="https://github.com/onenetwork/onechain-back-client">onechain&#8209;back&#8209;client</a> | Client API for ONE's Backhain |
 | <a href="https://github.com/onenetwork/onechain-back-verify">onechain&#8209;back&#8209;verify</a> | Standalone application which can connect to ONE's Backchain and verify individual transactions in the distributed ledger. |
