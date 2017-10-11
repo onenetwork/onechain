@@ -1,7 +1,10 @@
 # onechain
 
-Root repository for [One Network Enterprises](http://www.onenetwork.com)' blockchain initiatives.
+For an introduction to ONE's blockchain strategy, please read the following whitepaper:
 
+<span style="padding-left: 2em">[Can Blockchain Revolutionize the Supply Chain?](One%20Chain%20White%20Paper.pdf)</span>
+
+<br/>
 ONE's approach to blockchain is comprised of two key parts:
 
  * **Frontchain** - Frontchains are "traditional" blockchains, where writes are carefully controlled 
@@ -11,10 +14,11 @@ ONE's approach to blockchain is comprised of two key parts:
  * **Backchain** - Backchains provide an alternative when frontchains' permission limitations are prohibitive.
    In a backchain, an *orchestrator* (for example ONE) is the system of record for the business
    transactions.  The orchestrator must distribute an audit trail of writes to parties based on their
-   permissions.  The orchestrator also writes a *hash* of the transaction data to the blockchain.  
-   This provides an immutable record of the business transaction which can later be indpendently 
+   permissions.  The orchestrator also writes a *hash* of the transaction data to the blockchain. This provides 
+   an immutable record of the business transaction which can later be indpendently 
    verified by the chain participants.
 
+<br/>
 ONE operates several github repos in support of these initiatives:
 
 | Repo | Description |
