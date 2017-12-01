@@ -5,6 +5,12 @@ For an introduction to ONE's blockchain strategy, please read the following whit
 <span style="padding-left: 2em">[Can Blockchain Revolutionize the Supply Chain?](One%20Chain%20White%20Paper.pdf)</span>
 
 <br/>
+Here is a link to the press release announcing the launch of ONE Chain:
+
+<span style="padding-left: 2em">[One Network Delivers New ONE Chain - Blockchain Solution](https://www.onenetwork.com/2017/10/one-network-delivers-new-one-chain-solution/)</span>
+
+
+<br/>
 ONE's approach to blockchain is comprised of two key parts:
 
  * **Frontchain** - Frontchains are "traditional" blockchains, where writes are carefully controlled 
