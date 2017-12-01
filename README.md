@@ -1,14 +1,10 @@
 # onechain
 
 For an introduction to ONE's blockchain strategy, please read the following whitepaper:
-<br/>
-<span style="padding-left: 2em">[Can Blockchain Revolutionize the Supply Chain?](One%20Chain%20White%20Paper.pdf)</span>
+<div style="padding-left: 2em; margin-bottom: 20px">[Can Blockchain Revolutionize the Supply Chain?](One%20Chain%20White%20Paper.pdf)</div>
 
-<br/>
 Here is a link to the press release announcing the launch of ONE Chain:
-<br/>
-<span style="padding-left: 2em">[One Network Delivers New ONE Chain - Blockchain Solution](https://www.onenetwork.com/2017/10/one-network-delivers-new-one-chain-solution/)</span>
-
+<div style="padding-left: 2em; margin-bottom: 20px">[One Network Delivers New ONE Chain - Blockchain Solution](https://www.onenetwork.com/2017/10/one-network-delivers-new-one-chain-solution/)</div>
 
 <br/>
 ONE's approach to blockchain is comprised of two key parts:
